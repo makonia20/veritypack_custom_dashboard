@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'VerityPack Custom Apps Dashboard',
-    'version': '1.0.0',
+    'version': '19.0.1.0.0',
     'summary': 'Fullscreen App Switcher & Dashboard for Selecting Apps',
     'description': '''
         Fullscreen modern application launcher grid that replaces the default small dropdown
@@ -18,7 +18,7 @@
         ],
     },
     'installable': True,
-    'application': False,
+    'application': True,
     'auto_install': False,
     'license': 'LGPL-3',
 }
